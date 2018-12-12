@@ -1,0 +1,31 @@
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:#C4FFB3; 
+}
+
+a {
+  color: #452078;
+}
+
+hr {
+    display: block;
+    height: 3px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 10px; 
+    color:#170106;
+}
+
+
+
+h2 {
+  color: #170106;
+}
+
+p {
+  font: 30px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #1B5C49;
+}
